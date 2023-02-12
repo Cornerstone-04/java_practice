@@ -1,3 +1,4 @@
+package components;
 
 import java.util.Random; // Package for generating random number
 public class BreakStmt {

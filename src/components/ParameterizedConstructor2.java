@@ -1,3 +1,5 @@
+package components;
+
 class ParameterizedConstructor2 {
 	// Data members of the class
 	int Number1;
