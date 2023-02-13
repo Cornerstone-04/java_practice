@@ -1,4 +1,4 @@
-public class Voting {
+class Voting {
     public static void main(String[] args) {
         int myAge = 30;
         int votingAge = 18;

@@ -7,7 +7,7 @@ public class Main {
         /**
          * primitive types
          * There are 8 primitive types:
-         * byt, short, long, int, float, double, char, boolean.
+         * byte, short, long, int, float, double, char, boolean.
          */
         byte age = 30;
         short pump = 345;
